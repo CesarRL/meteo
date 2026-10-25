@@ -1,0 +1,892 @@
+
+
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <title>Fuenterrebollo S. P., 40330 Fuenterrebollo, SEGOVIA, ES</title>
+    <link rel="icon" type="image/png" href="favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="seasons.css"/>
+    <script src="seasons.js"></script>
+  </head>
+
+  <body onload="setup();">
+
+
+<div id="title_bar">
+  <div id="title">
+    <h1 class="page_title">Fuenterrebollo S. P., 40330 Fuenterrebollo, SEGOVIA, ES</h1>
+    <p class="lastupdate">10/25/26 11:23:00</p>
+  </div>
+  <div id="rss_link"><a href="rss.xml">RSS</a></div>
+  <div id="reports">
+    Reportes Mensuales:
+    <select name="reports" onchange="openTabularFile(value)">
+      <option value="2019-06">2019-06</option>
+      <option value="2019-07">2019-07</option>
+      <option value="2019-08">2019-08</option>
+      <option value="2019-09">2019-09</option>
+      <option value="2019-10">2019-10</option>
+      <option value="2019-11">2019-11</option>
+      <option value="2019-12">2019-12</option>
+      <option value="2020-01">2020-01</option>
+      <option value="2020-02">2020-02</option>
+      <option value="2020-03">2020-03</option>
+      <option value="2020-04">2020-04</option>
+      <option value="2020-05">2020-05</option>
+      <option value="2020-06">2020-06</option>
+      <option value="2020-07">2020-07</option>
+      <option value="2020-08">2020-08</option>
+      <option value="2020-09">2020-09</option>
+      <option value="2020-10">2020-10</option>
+      <option value="2020-11">2020-11</option>
+      <option value="2020-12">2020-12</option>
+      <option value="2021-01">2021-01</option>
+      <option value="2021-02">2021-02</option>
+      <option value="2021-03">2021-03</option>
+      <option value="2021-04">2021-04</option>
+      <option value="2021-05">2021-05</option>
+      <option value="2021-06">2021-06</option>
+      <option value="2021-07">2021-07</option>
+      <option value="2021-08">2021-08</option>
+      <option value="2021-09">2021-09</option>
+      <option value="2021-10">2021-10</option>
+      <option value="2021-11">2021-11</option>
+      <option value="2021-12">2021-12</option>
+      <option value="2022-01">2022-01</option>
+      <option value="2022-02">2022-02</option>
+      <option value="2022-03">2022-03</option>
+      <option value="2022-04">2022-04</option>
+      <option value="2022-05">2022-05</option>
+      <option value="2022-06">2022-06</option>
+      <option value="2022-07">2022-07</option>
+      <option value="2022-08">2022-08</option>
+      <option value="2022-09">2022-09</option>
+      <option value="2022-10">2022-10</option>
+      <option value="2022-11">2022-11</option>
+      <option value="2022-12">2022-12</option>
+      <option value="2023-01">2023-01</option>
+      <option value="2023-02">2023-02</option>
+      <option value="2023-03">2023-03</option>
+      <option value="2023-04">2023-04</option>
+      <option value="2023-05">2023-05</option>
+      <option value="2023-06">2023-06</option>
+      <option value="2023-07">2023-07</option>
+      <option value="2023-08">2023-08</option>
+      <option value="2023-09">2023-09</option>
+      <option value="2023-10">2023-10</option>
+      <option value="2023-11">2023-11</option>
+      <option value="2023-12">2023-12</option>
+      <option value="2024-01">2024-01</option>
+      <option value="2024-02">2024-02</option>
+      <option value="2024-03">2024-03</option>
+      <option value="2024-04">2024-04</option>
+      <option value="2024-05">2024-05</option>
+      <option value="2024-06">2024-06</option>
+      <option value="2024-07">2024-07</option>
+      <option value="2024-08">2024-08</option>
+      <option value="2024-09">2024-09</option>
+      <option value="2024-10">2024-10</option>
+      <option value="2024-11">2024-11</option>
+      <option value="2024-12">2024-12</option>
+      <option value="2025-01">2025-01</option>
+      <option value="2025-02">2025-02</option>
+      <option value="2025-03">2025-03</option>
+      <option value="2025-04">2025-04</option>
+      <option value="2025-05">2025-05</option>
+      <option value="2025-06">2025-06</option>
+      <option value="2025-07">2025-07</option>
+      <option value="2025-08">2025-08</option>
+      <option value="2025-09">2025-09</option>
+      <option value="2025-10">2025-10</option>
+      <option value="2025-11">2025-11</option>
+      <option value="2025-12">2025-12</option>
+      <option value="2026-01">2026-01</option>
+      <option value="2026-02">2026-02</option>
+      <option value="2026-03">2026-03</option>
+      <option value="2026-04">2026-04</option>
+      <option value="2026-05">2026-05</option>
+      <option value="2026-06">2026-06</option>
+      <option value="2026-07">2026-07</option>
+      <option value="2026-08">2026-08</option>
+      <option value="2026-09">2026-09</option>
+      <option value="2026-10">2026-10</option>
+      <option selected>- Seleccione el mes -</option>
+    </select>
+    <br/>
+    Reportes Anuales:
+    <select name="reports" onchange="openTabularFile(value)">
+      <option value="2019">2019</option>
+      <option value="2020">2020</option>
+      <option value="2021">2021</option>
+      <option value="2022">2022</option>
+      <option value="2023">2023</option>
+      <option value="2024">2024</option>
+      <option value="2025">2025</option>
+      <option value="2026">2026</option>
+      <option selected>- Seleccione el a&#241;o -</option>
+    </select>
+    <br/>
+  </div>
+</div>
+    
+    <div id="contents">
+      <div id="widget_group">
+
+<div id='current_widget' class="widget">
+  <div class="widget_title">
+    Condiciones actuales
+    <a class="widget_control"
+      onclick="toggle_widget('current')">&diams;</a>
+  </div>
+
+  <div class="widget_contents">
+  <table>
+    <tbody>
+
+
+      <tr>
+        <td class="label">Temperatura en el exterior</td>
+        <td class="data">11.5&#176;C</td>
+      </tr>
+      <tr>
+        <td class="label">&#205;ndice de calor</td>
+        <td class="data">10.6&#176;C</td>
+      </tr>
+      <tr>
+        <td class="label">Factor de sensaci&#243;n t&#233;rmica</td>
+        <td class="data">11.5&#176;C</td>
+      </tr>
+      <tr>
+        <td class="label">Punto de roc&#237;o</td>
+        <td class="data">7.0&#176;C</td>
+      </tr>
+      <tr>
+        <td class="label">Humedad</td>
+        <td class="data">74%</td>
+      </tr>
+      <tr>
+        <td class="label">Bar&#243;metro</td>
+        <td class="data">1027.0 mbar (1.0)</td>
+      </tr>
+      <tr>
+        <td class="label">Viento</td>
+        <td class="data">6 mph SO (235&#176;)</td>
+      </tr>
+      <tr>
+        <td class="label">La lluvia de hoy</td>
+        <td class="data">0.0 mm</td>
+      </tr>
+      <tr>
+        <td class="label">Promedio de lluvia</td>
+        <td class="data">0.0 mm/h</td>
+      </tr>
+      <tr>
+        <td class="label">&#205;ndice ultravioleta (UV)</td>
+        <td class="data">3.0</td>
+      </tr>
+      <tr>
+        <td class="label">Radiaci&#243;n</td>
+        <td class="data">383 W/m&#178;</td>
+      </tr>
+      <tr>
+        <td class="label">Temperatura en el interior</td>
+        <td class="data">19.4&#176;C</td>
+      </tr>
+      <tr>
+        <td class="label">Humedad en el interior</td>
+        <td class="data">45%</td>
+      </tr>
+
+    </tbody>
+  </table>
+  </div>
+
+</div>
+
+
+<div id="sunmoon_widget" class="widget">
+  <div class="widget_title">
+    <a href="celestial.html">Celestial</a>
+    <a class="widget_control"
+       onclick="toggle_widget('sunmoon')">&diams;</a>
+  </div>
+  <div class="widget_contents">
+    <div id="celestial_summary">
+      <table class="celestial">
+        <tr>
+          <td class="label">Salida del Sol</td>
+          <td class="data">07:38:03</td>
+        </tr>
+        <tr>
+          <td class="label">Puesta del sol</td>
+          <td class="data">18:21:43</td>
+        </tr>
+        <tr>
+          <td class="label">Fase lunar</td>
+          <td class="data">Llena<br/>
+            99%</td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</div>
+
+
+
+
+<div id='hilo_widget' class="widget">
+  <div class="widget_title">
+    <a href="statistics.html">Estad&#237;sticas</a>
+    <a class="widget_control"
+      onclick="toggle_widget('hilo')">&diams;</a>
+  </div>
+
+  <div class="widget_contents">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <th>&nbsp;<br/>Hoy</th>
+        <th class="hilo_week">&nbsp;<br/>Semana</th>
+        <th class="hilo_month">&nbsp;<br/>Mes</th>
+        <th class="hilo_year">
+          <a onclick="toggle_rainyear()">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>A&#241;o</a>
+        </th>
+        <th class="hilo_rainyear">
+          <a onclick="toggle_rainyear()">Lluvia<br/>A&#241;o</a>
+        </th>
+        <td></td>
+      </tr>
+
+      <tr>
+        <td class="label">Temperatura en el exterior</td>
+        <td class="data new_row hilo_day">
+          <span title="11:02:37">
+            12.6</span><br/>
+          <span title="07:42:05">
+            6.2</span>
+        </td>
+        <td class="data new_row hilo_week">
+          <span title="16:52:22 (Saturday)">
+            18.4</span><br/>
+          <span title="08:42:46 (Saturday)">
+            0.9</span>
+        </td>
+        <td class="data new_row hilo_month">
+          <span title="10/14/26 16:24:44">
+            27.1</span><br/>
+          <span title="10/24/26 08:42:46">
+            0.9</span>
+        </td>
+        <td class="data new_row hilo_year">
+          <span title="08/13/26 16:54:43">
+            37.8</span><br/>
+          <span title="01/06/26 01:36:23">
+            -6.3</span>
+        </td>
+        <td class="data new_row hilo_rainyear">
+          <span title="08/13/26 16:54:43">
+            37.8</span><br/>
+          <span title="01/06/26 01:36:23">
+            -6.3</span>
+        </td>
+        <td class="units">&#176;C</td>
+      </tr>
+      <tr>
+        <td class="label">&#205;ndice de calor</td>
+        <td class="data new_row hilo_day">
+          <span title="11:02:37">
+            11.7</span><br/>
+          <span title="07:42:05">
+            5.0</span>
+        </td>
+        <td class="data new_row hilo_week">
+          <span title="16:53:26 (Saturday)">
+            17.2</span><br/>
+          <span title="08:42:46 (Saturday)">
+            0.9</span>
+        </td>
+        <td class="data new_row hilo_month">
+          <span title="10/15/26 15:15:00">
+            26.9</span><br/>
+          <span title="10/24/26 08:42:46">
+            0.9</span>
+        </td>
+        <td class="data new_row hilo_year">
+          <span title="08/13/26 16:54:43">
+            36.2</span><br/>
+          <span title="01/06/26 01:36:23">
+            -6.3</span>
+        </td>
+        <td class="data new_row hilo_rainyear">
+          <span title="08/13/26 16:54:43">
+            36.2</span><br/>
+          <span title="01/06/26 01:36:23">
+            -6.3</span>
+        </td>
+        <td class="units">&#176;C</td>
+      </tr>
+      <tr>
+        <td class="label">Factor de sensaci&#243;n t&#233;rmica</td>
+        <td class="data new_row hilo_day">
+          <span title="11:02:37">
+            12.6</span><br/>
+          <span title="08:08:45">
+            4.7</span>
+        </td>
+        <td class="data new_row hilo_week">
+          <span title="16:52:22 (Saturday)">
+            18.4</span><br/>
+          <span title="08:42:46 (Saturday)">
+            0.9</span>
+        </td>
+        <td class="data new_row hilo_month">
+          <span title="10/14/26 16:24:44">
+            27.1</span><br/>
+          <span title="10/24/26 08:42:46">
+            0.9</span>
+        </td>
+        <td class="data new_row hilo_year">
+          <span title="08/13/26 16:54:43">
+            37.8</span><br/>
+          <span title="01/07/26 04:56:39">
+            -9.2</span>
+        </td>
+        <td class="data new_row hilo_rainyear">
+          <span title="08/13/26 16:54:43">
+            37.8</span><br/>
+          <span title="01/07/26 04:56:39">
+            -9.2</span>
+        </td>
+        <td class="units">&#176;C</td>
+      </tr>
+      <tr>
+        <td class="label">Punto de roc&#237;o</td>
+        <td class="data new_row hilo_day">
+          <span title="11:10:05">
+            7.6</span><br/>
+          <span title="00:02:13">
+            0.1</span>
+        </td>
+        <td class="data new_row hilo_week">
+          <span title="17:43:13 (Monday)">
+            9.5</span><br/>
+          <span title="18:42:30 (Friday)">
+            -1.1</span>
+        </td>
+        <td class="data new_row hilo_month">
+          <span title="10/16/26 20:08:51">
+            16.1</span><br/>
+          <span title="10/23/26 18:42:30">
+            -1.1</span>
+        </td>
+        <td class="data new_row hilo_year">
+          <span title="06/19/26 14:13:33">
+            18.7</span><br/>
+          <span title="01/06/26 01:26:47">
+            -7.5</span>
+        </td>
+        <td class="data new_row hilo_rainyear">
+          <span title="06/19/26 14:13:33">
+            18.7</span><br/>
+          <span title="01/06/26 01:26:47">
+            -7.5</span>
+        </td>
+        <td class="units">&#176;C</td>
+      </tr>
+      <tr>
+        <td class="label">Humedad</td>
+        <td class="data new_row hilo_day">
+          <span title="07:46:21">
+            80</span><br/>
+          <span title="00:00:05">
+            51</span>
+        </td>
+        <td class="data new_row hilo_week">
+          <span title="22:49:20 (Monday)">
+            99</span><br/>
+          <span title="17:00:54 (Saturday)">
+            32</span>
+        </td>
+        <td class="data new_row hilo_month">
+          <span title="10/05/26 06:57:49">
+            99</span><br/>
+          <span title="10/24/26 17:00:54">
+            32</span>
+        </td>
+        <td class="data new_row hilo_year">
+          <span title="01/04/26 06:06:41">
+            99</span><br/>
+          <span title="09/03/26 16:25:23">
+            11</span>
+        </td>
+        <td class="data new_row hilo_rainyear">
+          <span title="01/04/26 06:06:41">
+            99</span><br/>
+          <span title="09/03/26 16:25:23">
+            11</span>
+        </td>
+        <td class="units">%</td>
+      </tr>
+      <tr>
+        <td class="label">Bar&#243;metro</td>
+        <td class="data new_row hilo_day">
+          <span title="10:26:21">
+            1027.1</span><br/>
+          <span title="06:09:57">
+            1024.5</span>
+        </td>
+        <td class="data new_row hilo_week">
+          <span title="23:45:27 (Friday)">
+            1029.3</span><br/>
+          <span title="18:29:05 (Monday)">
+            1012.4</span>
+        </td>
+        <td class="data new_row hilo_month">
+          <span title="10/23/26 23:45:27">
+            1029.3</span><br/>
+          <span title="10/19/26 18:29:05">
+            1012.4</span>
+        </td>
+        <td class="data new_row hilo_year">
+          <span title="03/30/26 11:15:16">
+            1032.0</span><br/>
+          <span title="02/05/26 09:42:17">
+            988.5</span>
+        </td>
+        <td class="data new_row hilo_rainyear">
+          <span title="03/30/26 11:15:16">
+            1032.0</span><br/>
+          <span title="02/05/26 09:42:17">
+            988.5</span>
+        </td>
+        <td class="units"> mbar</td>
+      </tr>
+      <tr>
+        <td class="label">Viento m&#225;ximo</td>
+        <td class="data new_row hilo_day">
+          <span title="11:05:49">
+            11</span><br/>
+          214
+        </td>
+        <td class="data new_row hilo_week">
+          <span title="14:46:47 (Friday)">
+            14</span><br/>
+          219
+        </td>
+        <td class="data new_row hilo_month">
+          <span title="10/08/26 16:22:35">
+            21</span><br/>
+          37
+        </td>
+        <td class="data new_row hilo_year">
+          <span title="01/25/26 12:20:25">
+            38</span><br/>
+          290
+        </td>
+        <td class="data new_row hilo_rainyear">
+          <span title="01/25/26 12:20:25">
+            38</span><br/>
+          290
+        </td>
+        <td class="units">
+           mph<br/>
+          &#176;
+        </td>
+      </tr>
+      <tr>
+        <td class="label">Viento promedio</td>
+        <td class="data new_row hilo_day">
+          2</td>
+        <td class="data new_row hilo_week">
+          2</td>
+        <td class="data new_row hilo_month">
+          2</td>
+        <td class="data new_row hilo_year">
+          3</td>
+        <td class="data new_row hilo_rainyear">
+          3</td>
+        <td class="units"> mph</td>
+      </tr>
+      <tr>
+        <td class="label">Media cuadr&#225;tica del viento</td>
+        <td class="data new_row hilo_day">
+          2</td>
+        <td class="data new_row hilo_week">
+          2</td>
+        <td class="data new_row hilo_month">
+          2</td>
+        <td class="data new_row hilo_year">
+          4</td>
+        <td class="data new_row hilo_rainyear">
+          4</td>
+        <td class="units"> mph</td>
+      </tr>
+
+      <tr>
+        <td class="label">
+          Promedio vectorial<br/>
+          Direcci&#243;n vectorial
+        </td>
+        <td class="data new_row hilo_day">
+          1<br/>
+          222
+        </td>
+        <td class="data new_row hilo_week">
+          1<br/>
+          256
+        </td>
+        <td class="data new_row hilo_month">
+          0<br/>
+          289
+        </td>
+        <td class="data new_row hilo_year">
+          1<br/>
+          248
+        </td>
+        <td class="data new_row hilo_rainyear">
+          1<br/>
+          248
+        </td>
+        <td class="units">
+           mph<br/>
+          &#176;
+        </td>
+      </tr>
+      <tr>
+        <td class="label">Lluvia</td>
+        <td class="data new_row hilo_day">
+          0.0</td>
+        <td class="data new_row hilo_week">
+          4.1</td>
+        <td class="data new_row hilo_month">
+          61.9</td>
+        <td class="data new_row hilo_year">
+          361.0</td>
+        <td class="data new_row hilo_rainyear">
+          361.0</td>
+        <td class="units"> mm</td>
+      </tr>
+      <tr>
+        <td class="label">Promedio de lluvia</td>
+        <td class="data new_row hilo_day">
+          <span title="00:00:05">
+            0.0</span>
+        </td>
+        <td class="data new_row hilo_week">
+          <span title="14:07:12 (Monday)">
+            3.3</span>
+        </td>
+        <td class="data new_row hilo_month">
+          <span title="10/16/26 20:21:47">
+            62.0</span>
+        </td>
+        <td class="data new_row hilo_year">
+          <span title="10/16/26 20:21:47">
+            62.0</span>
+        </td>
+        <td class="data new_row hilo_rainyear">
+          <span title="10/16/26 20:21:47">
+            62.0</span>
+        </td>
+        <td class="units"> mm/h</td>
+      </tr>
+      <tr>
+        <td class="label">Evapotranspiraci&#243;n</td>
+        <td class="data new_row hilo_day">
+          0.2</td>
+        <td class="data new_row hilo_week">
+          4.1</td>
+        <td class="data new_row hilo_month">
+          27.9</td>
+        <td class="data new_row hilo_year">
+          687.1</td>
+        <td class="data new_row hilo_rainyear">
+          687.1</td>
+        <td class="units"> mm</td>
+      </tr>
+      <tr>
+        <td class="label">&#205;ndice ultravioleta (UV)</td>
+        <td class="data new_row hilo_day">
+          <span title="10:56:13">
+            3.0</span>
+        </td>
+        <td class="data new_row hilo_week">
+          <span title="13:00:07 (Friday)">
+            5.0</span>
+        </td>
+        <td class="data new_row hilo_month">
+          <span title="10/02/26 13:50:24">
+            6.0</span>
+        </td>
+        <td class="data new_row hilo_year">
+          <span title="05/03/26 14:57:11">
+            9.0</span>
+        </td>
+        <td class="data new_row hilo_rainyear">
+          <span title="05/03/26 14:57:11">
+            9.0</span>
+        </td>
+        <td class="units"></td>
+      </tr>
+      <tr>
+        <td class="label">Radiaci&#243;n</td>
+        <td class="data new_row hilo_day">
+          <span title="11:18:37">
+            401</span><br/>
+          <span title="00:00:05">
+            0</span>
+        </td>
+        <td class="data new_row hilo_week">
+          <span title="13:01:11 (Friday)">
+            606</span><br/>
+          <span title="00:00:33 (Monday)">
+            0</span>
+        </td>
+        <td class="data new_row hilo_month">
+          <span title="10/06/26 14:27:49">
+            664</span><br/>
+          <span title="10/01/26 00:00:25">
+            0</span>
+        </td>
+        <td class="data new_row hilo_year">
+          <span title="05/03/26 14:57:11">
+            988</span><br/>
+          <span title="01/01/26 00:00:27">
+            0</span>
+        </td>
+        <td class="data new_row hilo_rainyear">
+          <span title="05/03/26 14:57:11">
+            988</span><br/>
+          <span title="01/01/26 00:00:27">
+            0</span>
+        </td>
+        <td class="units"> W/m&#178;</td>
+      </tr>
+      <tr>
+        <td class="label">Temperatura en el interior</td>
+        <td class="data new_row hilo_day">
+          <span title="00:00:05">
+            22.6</span><br/>
+          <span title="11:22:53">
+            19.4</span>
+        </td>
+        <td class="data new_row hilo_week">
+          <span title="23:34:08 (Monday)">
+            23.0</span><br/>
+          <span title="12:34:14 (Saturday)">
+            18.2</span>
+        </td>
+        <td class="data new_row hilo_month">
+          <span title="10/12/26 22:50:21">
+            23.8</span><br/>
+          <span title="10/09/26 15:23:38">
+            17.1</span>
+        </td>
+        <td class="data new_row hilo_year">
+          <span title="06/24/26 20:29:15">
+            28.6</span><br/>
+          <span title="01/06/26 10:53:59">
+            15.7</span>
+        </td>
+        <td class="data new_row hilo_rainyear">
+          <span title="06/24/26 20:29:15">
+            28.6</span><br/>
+          <span title="01/06/26 10:53:59">
+            15.7</span>
+        </td>
+        <td class="units">&#176;C</td>
+      </tr>
+      <tr>
+        <td class="label">Humedad en el interior</td>
+        <td class="data new_row hilo_day">
+          <span title="00:00:05">
+            49</span><br/>
+          <span title="11:17:33">
+            45</span>
+        </td>
+        <td class="data new_row hilo_week">
+          <span title="07:01:28 (Monday)">
+            54</span><br/>
+          <span title="11:12:06 (Saturday)">
+            45</span>
+        </td>
+        <td class="data new_row hilo_month">
+          <span title="10/03/26 20:08:22">
+            59</span><br/>
+          <span title="10/24/26 11:12:06">
+            45</span>
+        </td>
+        <td class="data new_row hilo_year">
+          <span title="04/27/26 10:25:22">
+            63</span><br/>
+          <span title="07/20/26 00:34:38">
+            28</span>
+        </td>
+        <td class="data new_row hilo_rainyear">
+          <span title="04/27/26 10:25:22">
+            63</span><br/>
+          <span title="07/20/26 00:34:38">
+            28</span>
+        </td>
+        <td class="units">%</td>
+      </tr>
+
+    </tbody>
+  </table>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id='about_widget' class="widget">
+  <div class="widget_title">
+    Acerca de esta estaci&#243;n
+    <a class="widget_control"
+      onclick="toggle_widget('about')">&diams;</a>
+  </div>
+  <div class="widget_contents">
+  <table>
+    <tr>
+      <td class="label">Hardware</td>
+      <td class="data">weatherstation via interceptor</td>
+    </tr>
+    <tr>
+      <td class="label">Latitud</td>
+      <td class="data">41&deg; 17.71' N</td>
+    </tr>
+    <tr>
+      <td class="label">Longitud</td>
+      <td class="data">003&deg; 55.95' O</td>
+    </tr>
+    <tr>
+      <td class="label">Altura sobre el nivel del mar</td>
+      <td class="data">930 metros</td>
+    </tr>
+    <tr>
+      <td class="label">Tiempo de actividad del servidor</td>
+      <td class="data">0 d&#237;as, 4 horas, 52 minutos</td>
+    </tr>
+    <tr>
+      <td class="label">Tiempo de actividad de WeeWX</td>
+      <td class="data">0 d&#237;as, 4 horas, 52 minutos</td>
+    </tr>
+    <tr>
+      <td class="label">Versi&#243;n de WeeWX</td>
+      <td class="data">4.9.1</td>
+    </tr>
+    <tr>
+      <td class="label">Skin</td>
+      <td class="data">Seasons 4.9.1</td>
+    </tr>
+  </table>
+  </div>
+
+</div>
+
+
+
+      </div>
+
+      <div id="plot_group">
+        <div id="history_widget" class="widget">
+          <div id="plot_title" class="widget_title">Historia:&nbsp;&nbsp;
+            <a class="button_selected" id="button_history_day"
+               onclick="choose_history('day')">D&#237;a</a>
+            <a class="button" id="button_history_week"
+               onclick="choose_history('week')">Semana</a>
+            <a class="button" id="button_history_month"
+               onclick="choose_history('month')">Mes</a>
+            <a class="button" id="button_history_year"
+               onclick="choose_history('year')">A&#241;o</a>
+          </div>
+
+          <div id="history_day" class="plot_container" style="display:none">
+            <img src="daybarometer.png" alt="daybarometer"/>
+            <img src="daytempdew.png" alt="daytempdew"/>
+            <img src="daytempfeel.png" alt="daytempfeel"/>
+            <img src="dayhum.png" alt="dayhum"/>
+            <img src="daywind.png" alt="daywind"/>
+            <img src="daywinddir.png" alt="daywinddir"/>
+            <img src="daywindvec.png" alt="daywindvec"/>
+            <img src="dayrain.png" alt="dayrain"/>
+            <img src="dayET.png" alt="dayET"/>
+            <img src="dayUV.png" alt="dayUV"/>
+            <img src="dayradiation.png" alt="dayradiation"/>
+            <img src="daytempin.png" alt="daytempin"/>
+            <img src="dayhumin.png" alt="dayhumin"/>
+          </div>
+          <div id="history_week" class="plot_container" style="display:none">
+            <img src="weekbarometer.png" alt="weekbarometer"/>
+            <img src="weektempdew.png" alt="weektempdew"/>
+            <img src="weektempfeel.png" alt="weektempfeel"/>
+            <img src="weekhum.png" alt="weekhum"/>
+            <img src="weekwind.png" alt="weekwind"/>
+            <img src="weekwinddir.png" alt="weekwinddir"/>
+            <img src="weekwindvec.png" alt="weekwindvec"/>
+            <img src="weekrain.png" alt="weekrain"/>
+            <img src="weekET.png" alt="weekET"/>
+            <img src="weekUV.png" alt="weekUV"/>
+            <img src="weekradiation.png" alt="weekradiation"/>
+            <img src="weektempin.png" alt="weektempin"/>
+            <img src="weekhumin.png" alt="weekhumin"/>
+          </div>
+          <div id="history_month" class="plot_container" style="display:none">
+            <img src="monthbarometer.png" alt="monthbarometer"/>
+            <img src="monthtempdew.png" alt="monthtempdew"/>
+            <img src="monthtempfeel.png" alt="monthtempfeel"/>
+            <img src="monthhum.png" alt="monthhum"/>
+            <img src="monthwind.png" alt="monthwind"/>
+            <img src="monthwinddir.png" alt="monthwinddir"/>
+            <img src="monthwindvec.png" alt="monthwindvec"/>
+            <img src="monthrain.png" alt="monthrain"/>
+            <img src="monthET.png" alt="monthET"/>
+            <img src="monthUV.png" alt="monthUV"/>
+            <img src="monthradiation.png" alt="monthradiation"/>
+            <img src="monthtempin.png" alt="monthtempin"/>
+            <img src="monthhumin.png" alt="monthhumin"/>
+          </div>
+          <div id="history_year" class="plot_container" style="display:none">
+            <img src="yearbarometer.png" alt="yearbarometer"/>
+            <img src="yeartempdew.png" alt="yeartempdew"/>
+            <img src="yeartempfeel.png" alt="yeartempfeel"/>
+            <img src="yearhum.png" alt="yearhum"/>
+            <img src="yearwind.png" alt="yearwind"/>
+            <img src="yearwinddir.png" alt="yearwinddir"/>
+            <img src="yearwindvec.png" alt="yearwindvec"/>
+            <img src="yearrain.png" alt="yearrain"/>
+            <img src="yearET.png" alt="yearET"/>
+            <img src="yearUV.png" alt="yearUV"/>
+            <img src="yearradiation.png" alt="yearradiation"/>
+            <img src="yeartempin.png" alt="yeartempin"/>
+            <img src="yearhumin.png" alt="yearhumin"/>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <p class="footnote">
+      Esta estaci&#243;n est&#225; manejada por <a href='https://weewx.com'>WeeWX</a>, un sistema de softtware experimental para meteorolog&#237;a escrito en Python.
+    </p>
+
+
+
+
+  </body>
+
+</html>
