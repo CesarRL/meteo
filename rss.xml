@@ -10,20 +10,20 @@
     <link></link>
     <description>Condiciones actuales y sumarios diarios, mensuales y anuales</description>
     <language>"es"</language>
-    <pubDate>Wed, 28 Oct 2026 19:12:00 CET</pubDate>
+    <pubDate>Wed, 28 Oct 2026 19:18:00 CET</pubDate>
 
-    <lastBuildDate>Wed, 28 Oct 2026 19:12:00 CET</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 19:18:00 CET</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 4.9.1</generator>
     <ttl>1.0 minuto</ttl>
 
     <item>
-      <title>Condiciones clim&#225;ticas al 10/28/26 19:12:00</title>
+      <title>Condiciones clim&#225;ticas al 10/28/26 19:18:00</title>
       <link></link>
       <description>
         Temperatura en el exterior: 13.2&#176;C;
         Temperatura en el interior: 19.3&#176;C;
-        Bar&#243;metro: 1024.0 mbar;
+        Bar&#243;metro: 1024.1 mbar;
         Viento: 0 mph de    N/A;
         Lluvia: 0.0 mm;
         Promedio de lluvia: 0.0 mm/h;
@@ -33,15 +33,15 @@
         Humedad: 58%;
         Humedad en el interior: 47%;
       </description>
-      <pubDate>Wed, 28 Oct 2026 19:12:00 CET</pubDate>
+      <pubDate>Wed, 28 Oct 2026 19:18:00 CET</pubDate>
       <geo:lat>41.29523468</geo:lat>
       <geo:long>-3.93256903</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Tiempo: 10/28/26 19:12:00<br/>
+      Tiempo: 10/28/26 19:18:00<br/>
         Temperatura en el exterior: 13.2&#176;C<br/>
         Temperatura en el interior: 19.3&#176;C<br/>
-        Bar&#243;metro: 1024.0 mbar<br/>
+        Bar&#243;metro: 1024.1 mbar<br/>
         Viento: 0 mph de    N/A;
         Lluvia: 0.0 mm<br/>
         Promedio de lluvia: 0.0 mm/h<br/>
@@ -55,7 +55,7 @@
     </item>
 
     <item>
-      <title>Resumen diario del tiempo al 10/28/26 19:12:00</title>
+      <title>Resumen diario del tiempo al 10/28/26 19:18:00</title>
       <link></link>
       <description>
         Min Temperatura en el exterior: 3.3&#176;C at 07:28:36;
@@ -78,7 +78,7 @@
         Min Humedad en el interior: 44% at 13:24:11;
         Max Humedad en el interior: 48% at 02:30:27;
       </description>
-      <pubDate>Wed, 28 Oct 2026 19:12:00 CET</pubDate>
+      <pubDate>Wed, 28 Oct 2026 19:18:00 CET</pubDate>
       <geo:lat>41.29523468</geo:lat>
       <geo:long>-3.93256903</geo:long>
       <content:encoded><![CDATA[
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Resumen mensual del tiempo al 10/28/26 19:12:00</title>
+      <title>Resumen mensual del tiempo al 10/28/26 19:18:00</title>
       <link></link>
       <description>
         Min Temperatura en el exterior: 0.9&#176;C at 10/24/26 08:42:46;
@@ -130,7 +130,7 @@
         Min Humedad en el interior: 42% at 10/27/26 14:57:56;
         Max Humedad en el interior: 59% at 10/03/26 20:08:22;
       </description>
-      <pubDate>Wed, 28 Oct 2026 19:12:00 CET</pubDate>
+      <pubDate>Wed, 28 Oct 2026 19:18:00 CET</pubDate>
       <geo:lat>41.29523468</geo:lat>
       <geo:long>-3.93256903</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Resumen anual del clima al 10/28/26 19:12:00</title>
+      <title>Resumen anual del clima al 10/28/26 19:18:00</title>
       <link></link>
       <description>
         Min Temperatura en el exterior: -6.3&#176;C at 01/06/26 01:36:23;
@@ -182,7 +182,7 @@
         Min Humedad en el interior: 28% at 07/20/26 00:34:38;
         Max Humedad en el interior: 63% at 04/27/26 10:25:22;
       </description>
-      <pubDate>Wed, 28 Oct 2026 19:12:00 CET</pubDate>
+      <pubDate>Wed, 28 Oct 2026 19:18:00 CET</pubDate>
       <geo:lat>41.29523468</geo:lat>
       <geo:long>-3.93256903</geo:long>
       <content:encoded><![CDATA[
