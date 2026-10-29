@@ -10,15 +10,15 @@
     <link></link>
     <description>Condiciones actuales y sumarios diarios, mensuales y anuales</description>
     <language>"es"</language>
-    <pubDate>Thu, 29 Oct 2026 18:09:00 CET</pubDate>
+    <pubDate>Thu, 29 Oct 2026 18:12:00 CET</pubDate>
 
-    <lastBuildDate>Thu, 29 Oct 2026 18:09:00 CET</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 18:12:00 CET</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 4.9.1</generator>
     <ttl>1.0 minuto</ttl>
 
     <item>
-      <title>Condiciones clim&#225;ticas al 10/29/26 18:09:00</title>
+      <title>Condiciones clim&#225;ticas al 10/29/26 18:12:00</title>
       <link></link>
       <description>
         Temperatura en el exterior: 18.0&#176;C;
@@ -31,14 +31,14 @@
         &#205;ndice de calor: 16.9&#176;C;
         Punto de roc&#237;o: 4.6&#176;C;
         Humedad: 41%;
-        Humedad en el interior: 48%;
+        Humedad en el interior: 49%;
       </description>
-      <pubDate>Thu, 29 Oct 2026 18:09:00 CET</pubDate>
+      <pubDate>Thu, 29 Oct 2026 18:12:00 CET</pubDate>
       <geo:lat>41.29523468</geo:lat>
       <geo:long>-3.93256903</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Tiempo: 10/29/26 18:09:00<br/>
+      Tiempo: 10/29/26 18:12:00<br/>
         Temperatura en el exterior: 18.0&#176;C<br/>
         Temperatura en el interior: 19.1&#176;C<br/>
         Bar&#243;metro: 1022.2 mbar<br/>
@@ -49,13 +49,13 @@
         &#205;ndice de calor: 16.9&#176;C<br/>
         Punto de roc&#237;o: 4.6&#176;C<br/>
         Humedad: 41%<br/>
-        Humedad en el interior: 48%<br/>
+        Humedad en el interior: 49%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Resumen diario del tiempo al 10/29/26 18:09:00</title>
+      <title>Resumen diario del tiempo al 10/29/26 18:12:00</title>
       <link></link>
       <description>
         Min Temperatura en el exterior: 3.8&#176;C at 07:39:18;
@@ -76,9 +76,9 @@
         Min Humedad: 32% at 15:09:26;
         Max Humedad: 84% at 07:30:46;
         Min Humedad en el interior: 46% at 10:38:14;
-        Max Humedad en el interior: 48% at 01:32:55;
+        Max Humedad en el interior: 49% at 18:10:13;
       </description>
-      <pubDate>Thu, 29 Oct 2026 18:09:00 CET</pubDate>
+      <pubDate>Thu, 29 Oct 2026 18:12:00 CET</pubDate>
       <geo:lat>41.29523468</geo:lat>
       <geo:long>-3.93256903</geo:long>
       <content:encoded><![CDATA[
@@ -102,12 +102,12 @@
         Min Humedad: 32% at 15:09:26<br/>
         Max Humedad: 84% at 07:30:46<br/>
         Min Humedad en el interior: 46% at 10:38:14<br/>
-        Max Humedad en el interior: 48% at 01:32:55<br/>
+        Max Humedad en el interior: 49% at 18:10:13<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Resumen mensual del tiempo al 10/29/26 18:09:00</title>
+      <title>Resumen mensual del tiempo al 10/29/26 18:12:00</title>
       <link></link>
       <description>
         Min Temperatura en el exterior: 0.9&#176;C at 10/24/26 08:42:46;
@@ -130,7 +130,7 @@
         Min Humedad en el interior: 42% at 10/27/26 14:57:56;
         Max Humedad en el interior: 59% at 10/03/26 20:08:22;
       </description>
-      <pubDate>Thu, 29 Oct 2026 18:09:00 CET</pubDate>
+      <pubDate>Thu, 29 Oct 2026 18:12:00 CET</pubDate>
       <geo:lat>41.29523468</geo:lat>
       <geo:long>-3.93256903</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Resumen anual del clima al 10/29/26 18:09:00</title>
+      <title>Resumen anual del clima al 10/29/26 18:12:00</title>
       <link></link>
       <description>
         Min Temperatura en el exterior: -6.3&#176;C at 01/06/26 01:36:23;
@@ -182,7 +182,7 @@
         Min Humedad en el interior: 28% at 07/20/26 00:34:38;
         Max Humedad en el interior: 63% at 04/27/26 10:25:22;
       </description>
-      <pubDate>Thu, 29 Oct 2026 18:09:00 CET</pubDate>
+      <pubDate>Thu, 29 Oct 2026 18:12:00 CET</pubDate>
       <geo:lat>41.29523468</geo:lat>
       <geo:long>-3.93256903</geo:long>
       <content:encoded><![CDATA[
