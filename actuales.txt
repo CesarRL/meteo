@@ -1,1 +1,1 @@
-weather,location=Fuenterrebollo\ S.\ P.\,\ 40330\ Fuenterrebollo\,\ SEGOVIA\,\ ES temperatura=7.0,humedad=74,presion=1023.8,lluvia=0.0,altimeter=1024.8,pressure=916.8 1793260380000000000
+weather,location=Fuenterrebollo\ S.\ P.\,\ 40330\ Fuenterrebollo\,\ SEGOVIA\,\ ES temperatura=7.4,humedad=73,presion=1024.2,lluvia=0.0,altimeter=1025.2,pressure=917.2 1793260740000000000
