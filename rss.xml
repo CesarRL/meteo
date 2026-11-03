@@ -10,104 +10,104 @@
     <link></link>
     <description>Condiciones actuales y sumarios diarios, mensuales y anuales</description>
     <language>"es"</language>
-    <pubDate>Wed, 04 Nov 2026 00:28:00 CET</pubDate>
+    <pubDate>Wed, 04 Nov 2026 00:34:00 CET</pubDate>
 
-    <lastBuildDate>Wed, 04 Nov 2026 00:28:00 CET</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 00:34:00 CET</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 4.9.1</generator>
     <ttl>1.0 minuto</ttl>
 
     <item>
-      <title>Condiciones clim&#225;ticas al 11/04/26 00:28:00</title>
+      <title>Condiciones clim&#225;ticas al 11/04/26 00:34:00</title>
       <link></link>
       <description>
-        Temperatura en el exterior: -0.7&#176;C;
-        Temperatura en el interior: 21.7&#176;C;
-        Bar&#243;metro: 1016.2 mbar;
+        Temperatura en el exterior: -1.2&#176;C;
+        Temperatura en el interior: 21.6&#176;C;
+        Bar&#243;metro: 1016.1 mbar;
         Viento: 0 mph de    N/A;
         Lluvia: 0.0 mm;
         Promedio de lluvia: 0.0 mm/h;
-        Factor de sensaci&#243;n t&#233;rmica: -0.7&#176;C;
-        &#205;ndice de calor: -0.7&#176;C;
-        Punto de roc&#237;o: -3.3&#176;C;
-        Humedad: 83%;
+        Factor de sensaci&#243;n t&#233;rmica: -1.2&#176;C;
+        &#205;ndice de calor: -1.2&#176;C;
+        Punto de roc&#237;o: -3.6&#176;C;
+        Humedad: 84%;
         Humedad en el interior: 44%;
       </description>
-      <pubDate>Wed, 04 Nov 2026 00:28:00 CET</pubDate>
+      <pubDate>Wed, 04 Nov 2026 00:34:00 CET</pubDate>
       <geo:lat>41.29523468</geo:lat>
       <geo:long>-3.93256903</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Tiempo: 11/04/26 00:28:00<br/>
-        Temperatura en el exterior: -0.7&#176;C<br/>
-        Temperatura en el interior: 21.7&#176;C<br/>
-        Bar&#243;metro: 1016.2 mbar<br/>
+      Tiempo: 11/04/26 00:34:00<br/>
+        Temperatura en el exterior: -1.2&#176;C<br/>
+        Temperatura en el interior: 21.6&#176;C<br/>
+        Bar&#243;metro: 1016.1 mbar<br/>
         Viento: 0 mph de    N/A;
         Lluvia: 0.0 mm<br/>
         Promedio de lluvia: 0.0 mm/h<br/>
-        Factor de sensaci&#243;n t&#233;rmica: -0.7&#176;C<br/>
-        &#205;ndice de calor: -0.7&#176;C<br/>
-        Punto de roc&#237;o: -3.3&#176;C<br/>
-        Humedad: 83%<br/>
+        Factor de sensaci&#243;n t&#233;rmica: -1.2&#176;C<br/>
+        &#205;ndice de calor: -1.2&#176;C<br/>
+        Punto de roc&#237;o: -3.6&#176;C<br/>
+        Humedad: 84%<br/>
         Humedad en el interior: 44%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Resumen diario del tiempo al 11/04/26 00:28:00</title>
+      <title>Resumen diario del tiempo al 11/04/26 00:34:00</title>
       <link></link>
       <description>
-        Min Temperatura en el exterior: -0.7&#176;C at 00:27:19;
+        Min Temperatura en el exterior: -1.2&#176;C at 00:32:39;
         Max Temperatura en el exterior: -0.2&#176;C at 00:05:59;
-        Min Temperatura en el interior: 21.7&#176;C at 00:26:15;
+        Min Temperatura en el interior: 21.6&#176;C at 00:31:35;
         Max Temperatura en el interior: 22.0&#176;C at 00:00:39;
         Min Bar&#243;metro: 1015.9 mbar at 00:21:59;
         Max Bar&#243;metro: 1016.3 mbar at 00:02:47;
         Max Viento: 1 mph de 208&#176; at 00:02:47;
         Lluvia: 0.0 mm;
         Max Promedio de lluvia: 0.0 mm/h;
-        Min Factor de sensaci&#243;n t&#233;rmica: -0.7&#176;C at 00:27:19;
+        Min Factor de sensaci&#243;n t&#233;rmica: -1.2&#176;C at 00:32:39;
         Max Factor de sensaci&#243;n t&#233;rmica: -0.2&#176;C at 00:05:59;
-        Min &#205;ndice de calor: -0.7&#176;C at 00:27:19;
+        Min &#205;ndice de calor: -1.2&#176;C at 00:32:39;
         Max &#205;ndice de calor: -0.2&#176;C at 00:05:59;
-        Min Punto de roc&#237;o: -3.3&#176;C at 00:27:19;
+        Min Punto de roc&#237;o: -3.6&#176;C at 00:32:39;
         Max Punto de roc&#237;o: -2.9&#176;C at 00:16:39;
         Min Humedad: 81% at 00:05:59;
-        Max Humedad: 83% at 00:00:39;
+        Max Humedad: 84% at 00:30:31;
         Min Humedad en el interior: 44% at 00:00:39;
         Max Humedad en el interior: 44% at 00:00:39;
       </description>
-      <pubDate>Wed, 04 Nov 2026 00:28:00 CET</pubDate>
+      <pubDate>Wed, 04 Nov 2026 00:34:00 CET</pubDate>
       <geo:lat>41.29523468</geo:lat>
       <geo:long>-3.93256903</geo:long>
       <content:encoded><![CDATA[
       <p>
       Resumen diario del tiempo al 04 Nov 2026<br/>
-        Min Temperatura en el exterior: -0.7&#176;C at 00:27:19<br/>
+        Min Temperatura en el exterior: -1.2&#176;C at 00:32:39<br/>
         Max Temperatura en el exterior: -0.2&#176;C at 00:05:59<br/>
-        Min Temperatura en el interior: 21.7&#176;C at 00:26:15<br/>
+        Min Temperatura en el interior: 21.6&#176;C at 00:31:35<br/>
         Max Temperatura en el interior: 22.0&#176;C at 00:00:39<br/>
         Min Bar&#243;metro: 1015.9 mbar at 00:21:59<br/>
         Max Bar&#243;metro: 1016.3 mbar at 00:02:47<br/>
         Max Viento: 1 mph de 208&#176; at 00:02:47<br/>
         Lluvia: 0.0 mm<br/>
         Max Promedio de lluvia: 0.0 mm/h<br/>
-        Min Factor de sensaci&#243;n t&#233;rmica: -0.7&#176;C at 00:27:19<br/>
+        Min Factor de sensaci&#243;n t&#233;rmica: -1.2&#176;C at 00:32:39<br/>
         Max Factor de sensaci&#243;n t&#233;rmica: -0.2&#176;C at 00:05:59<br/>
-        Min &#205;ndice de calor: -0.7&#176;C at 00:27:19<br/>
+        Min &#205;ndice de calor: -1.2&#176;C at 00:32:39<br/>
         Max &#205;ndice de calor: -0.2&#176;C at 00:05:59<br/>
-        Min Punto de roc&#237;o: -3.3&#176;C at 00:27:19<br/>
+        Min Punto de roc&#237;o: -3.6&#176;C at 00:32:39<br/>
         Max Punto de roc&#237;o: -2.9&#176;C at 00:16:39<br/>
         Min Humedad: 81% at 00:05:59<br/>
-        Max Humedad: 83% at 00:00:39<br/>
+        Max Humedad: 84% at 00:30:31<br/>
         Min Humedad en el interior: 44% at 00:00:39<br/>
         Max Humedad en el interior: 44% at 00:00:39<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Resumen mensual del tiempo al 11/04/26 00:28:00</title>
+      <title>Resumen mensual del tiempo al 11/04/26 00:34:00</title>
       <link></link>
       <description>
         Min Temperatura en el exterior: -1.5&#176;C at 11/03/26 06:54:00;
@@ -130,7 +130,7 @@
         Min Humedad en el interior: 44% at 11/01/26 00:04:45;
         Max Humedad en el interior: 48% at 11/02/26 04:41:52;
       </description>
-      <pubDate>Wed, 04 Nov 2026 00:28:00 CET</pubDate>
+      <pubDate>Wed, 04 Nov 2026 00:34:00 CET</pubDate>
       <geo:lat>41.29523468</geo:lat>
       <geo:long>-3.93256903</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Resumen anual del clima al 11/04/26 00:28:00</title>
+      <title>Resumen anual del clima al 11/04/26 00:34:00</title>
       <link></link>
       <description>
         Min Temperatura en el exterior: -6.3&#176;C at 01/06/26 01:36:23;
@@ -182,7 +182,7 @@
         Min Humedad en el interior: 28% at 07/20/26 00:34:38;
         Max Humedad en el interior: 63% at 04/27/26 10:25:22;
       </description>
-      <pubDate>Wed, 04 Nov 2026 00:28:00 CET</pubDate>
+      <pubDate>Wed, 04 Nov 2026 00:34:00 CET</pubDate>
       <geo:lat>41.29523468</geo:lat>
       <geo:long>-3.93256903</geo:long>
       <content:encoded><![CDATA[
