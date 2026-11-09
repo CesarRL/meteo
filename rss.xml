@@ -10,52 +10,52 @@
     <link></link>
     <description>Condiciones actuales y sumarios diarios, mensuales y anuales</description>
     <language>"es"</language>
-    <pubDate>Mon, 09 Nov 2026 10:54:00 CET</pubDate>
+    <pubDate>Mon, 09 Nov 2026 10:58:00 CET</pubDate>
 
-    <lastBuildDate>Mon, 09 Nov 2026 10:54:00 CET</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 10:58:00 CET</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 4.9.1</generator>
     <ttl>1.0 minuto</ttl>
 
     <item>
-      <title>Condiciones clim&#225;ticas al 11/09/26 10:54:00</title>
+      <title>Condiciones clim&#225;ticas al 11/09/26 10:58:00</title>
       <link></link>
       <description>
-        Temperatura en el exterior: 13.5&#176;C;
+        Temperatura en el exterior: 13.2&#176;C;
         Temperatura en el interior: 21.3&#176;C;
-        Bar&#243;metro: 1012.8 mbar;
-        Viento: 7 mph de 213&#176;;
+        Bar&#243;metro: 1012.9 mbar;
+        Viento: 7 mph de 170&#176;;
         Lluvia: 0.0 mm;
         Promedio de lluvia: 6.0 mm/h;
-        Factor de sensaci&#243;n t&#233;rmica: 13.5&#176;C;
-        &#205;ndice de calor: 13.3&#176;C;
-        Punto de roc&#237;o: 11.9&#176;C;
-        Humedad: 90%;
+        Factor de sensaci&#243;n t&#233;rmica: 13.2&#176;C;
+        &#205;ndice de calor: 13.0&#176;C;
+        Punto de roc&#237;o: 11.8&#176;C;
+        Humedad: 91%;
         Humedad en el interior: 47%;
       </description>
-      <pubDate>Mon, 09 Nov 2026 10:54:00 CET</pubDate>
+      <pubDate>Mon, 09 Nov 2026 10:58:00 CET</pubDate>
       <geo:lat>41.29523468</geo:lat>
       <geo:long>-3.93256903</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Tiempo: 11/09/26 10:54:00<br/>
-        Temperatura en el exterior: 13.5&#176;C<br/>
+      Tiempo: 11/09/26 10:58:00<br/>
+        Temperatura en el exterior: 13.2&#176;C<br/>
         Temperatura en el interior: 21.3&#176;C<br/>
-        Bar&#243;metro: 1012.8 mbar<br/>
-        Viento: 7 mph de 213&#176;;
+        Bar&#243;metro: 1012.9 mbar<br/>
+        Viento: 7 mph de 170&#176;;
         Lluvia: 0.0 mm<br/>
         Promedio de lluvia: 6.0 mm/h<br/>
-        Factor de sensaci&#243;n t&#233;rmica: 13.5&#176;C<br/>
-        &#205;ndice de calor: 13.3&#176;C<br/>
-        Punto de roc&#237;o: 11.9&#176;C<br/>
-        Humedad: 90%<br/>
+        Factor de sensaci&#243;n t&#233;rmica: 13.2&#176;C<br/>
+        &#205;ndice de calor: 13.0&#176;C<br/>
+        Punto de roc&#237;o: 11.8&#176;C<br/>
+        Humedad: 91%<br/>
         Humedad en el interior: 47%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Resumen diario del tiempo al 11/09/26 10:54:00</title>
+      <title>Resumen diario del tiempo al 11/09/26 10:58:00</title>
       <link></link>
       <description>
         Min Temperatura en el exterior: 12.1&#176;C at 05:22:58;
@@ -65,8 +65,8 @@
         Min Bar&#243;metro: 1011.1 mbar at 08:13:31;
         Max Bar&#243;metro: 1015.8 mbar at 00:13:39;
         Max Viento: 20 mph de 221&#176; at 03:44:35;
-        Lluvia: 2.4 mm;
-        Max Promedio de lluvia: 6.0 mm/h;
+        Lluvia: 2.6 mm;
+        Max Promedio de lluvia: 6.4 mm/h;
         Min Factor de sensaci&#243;n t&#233;rmica: 12.1&#176;C at 05:22:58;
         Max Factor de sensaci&#243;n t&#233;rmica: 15.5&#176;C at 10:15:47;
         Min &#205;ndice de calor: 11.7&#176;C at 05:22:58;
@@ -74,11 +74,11 @@
         Min Punto de roc&#237;o: 9.2&#176;C at 00:00:51;
         Max Punto de roc&#237;o: 12.0&#176;C at 10:39:38;
         Min Humedad: 73% at 00:00:51;
-        Max Humedad: 90% at 05:03:46;
+        Max Humedad: 91% at 10:56:18;
         Min Humedad en el interior: 47% at 00:00:51;
         Max Humedad en el interior: 48% at 01:30:35;
       </description>
-      <pubDate>Mon, 09 Nov 2026 10:54:00 CET</pubDate>
+      <pubDate>Mon, 09 Nov 2026 10:58:00 CET</pubDate>
       <geo:lat>41.29523468</geo:lat>
       <geo:long>-3.93256903</geo:long>
       <content:encoded><![CDATA[
@@ -91,8 +91,8 @@
         Min Bar&#243;metro: 1011.1 mbar at 08:13:31<br/>
         Max Bar&#243;metro: 1015.8 mbar at 00:13:39<br/>
         Max Viento: 20 mph de 221&#176; at 03:44:35<br/>
-        Lluvia: 2.4 mm<br/>
-        Max Promedio de lluvia: 6.0 mm/h<br/>
+        Lluvia: 2.6 mm<br/>
+        Max Promedio de lluvia: 6.4 mm/h<br/>
         Min Factor de sensaci&#243;n t&#233;rmica: 12.1&#176;C at 05:22:58<br/>
         Max Factor de sensaci&#243;n t&#233;rmica: 15.5&#176;C at 10:15:47<br/>
         Min &#205;ndice de calor: 11.7&#176;C at 05:22:58<br/>
@@ -100,14 +100,14 @@
         Min Punto de roc&#237;o: 9.2&#176;C at 00:00:51<br/>
         Max Punto de roc&#237;o: 12.0&#176;C at 10:39:38<br/>
         Min Humedad: 73% at 00:00:51<br/>
-        Max Humedad: 90% at 05:03:46<br/>
+        Max Humedad: 91% at 10:56:18<br/>
         Min Humedad en el interior: 47% at 00:00:51<br/>
         Max Humedad en el interior: 48% at 01:30:35<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Resumen mensual del tiempo al 11/09/26 10:54:00</title>
+      <title>Resumen mensual del tiempo al 11/09/26 10:58:00</title>
       <link></link>
       <description>
         Min Temperatura en el exterior: -2.9&#176;C at 11/04/26 05:34:22;
@@ -117,8 +117,8 @@
         Min Bar&#243;metro: 1011.1 mbar at 11/09/26 08:13:31;
         Max Bar&#243;metro: 1023.7 mbar at 11/01/26 10:31:56;
         Max Viento: 22 mph de 224&#176; at 11/05/26 15:39:49;
-        Lluvia: 2.4 mm;
-        Max Promedio de lluvia: 6.0 mm/h;
+        Lluvia: 2.6 mm;
+        Max Promedio de lluvia: 6.4 mm/h;
         Min Factor de sensaci&#243;n t&#233;rmica: -5.3&#176;C at 11/04/26 07:16:47;
         Max Factor de sensaci&#243;n t&#233;rmica: 19.9&#176;C at 11/08/26 15:44:11;
         Min &#205;ndice de calor: -2.9&#176;C at 11/04/26 05:34:22;
@@ -130,7 +130,7 @@
         Min Humedad en el interior: 38% at 11/06/26 08:48:21;
         Max Humedad en el interior: 48% at 11/02/26 04:41:52;
       </description>
-      <pubDate>Mon, 09 Nov 2026 10:54:00 CET</pubDate>
+      <pubDate>Mon, 09 Nov 2026 10:58:00 CET</pubDate>
       <geo:lat>41.29523468</geo:lat>
       <geo:long>-3.93256903</geo:long>
       <content:encoded><![CDATA[
@@ -143,8 +143,8 @@
         Min Bar&#243;metro: 1011.1 mbar at 11/09/26 08:13:31<br/>
         Max Bar&#243;metro: 1023.7 mbar at 11/01/26 10:31:56<br/>
         Max Viento: 22 mph de 224&#176; at 11/05/26 15:39:49<br/>
-        Lluvia: 2.4 mm<br/>
-        Max Promedio de lluvia: 6.0 mm/h<br/>
+        Lluvia: 2.6 mm<br/>
+        Max Promedio de lluvia: 6.4 mm/h<br/>
         Min Factor de sensaci&#243;n t&#233;rmica: -5.3&#176;C at 11/04/26 07:16:47<br/>
         Max Factor de sensaci&#243;n t&#233;rmica: 19.9&#176;C at 11/08/26 15:44:11<br/>
         Min &#205;ndice de calor: -2.9&#176;C at 11/04/26 05:34:22<br/>
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Resumen anual del clima al 11/09/26 10:54:00</title>
+      <title>Resumen anual del clima al 11/09/26 10:58:00</title>
       <link></link>
       <description>
         Min Temperatura en el exterior: -6.3&#176;C at 01/06/26 01:36:23;
@@ -169,7 +169,7 @@
         Min Bar&#243;metro: 988.5 mbar at 02/05/26 09:42:17;
         Max Bar&#243;metro: 1032.0 mbar at 03/30/26 11:15:16;
         Max Viento: 38 mph de 290&#176; at 01/25/26 12:20:25;
-        Lluvia: 363.4 mm;
+        Lluvia: 363.6 mm;
         Max Promedio de lluvia: 62.0 mm/h;
         Min Factor de sensaci&#243;n t&#233;rmica: -9.2&#176;C at 01/07/26 04:56:39;
         Max Factor de sensaci&#243;n t&#233;rmica: 37.8&#176;C at 08/13/26 16:54:43;
@@ -182,7 +182,7 @@
         Min Humedad en el interior: 28% at 07/20/26 00:34:38;
         Max Humedad en el interior: 63% at 04/27/26 10:25:22;
       </description>
-      <pubDate>Mon, 09 Nov 2026 10:54:00 CET</pubDate>
+      <pubDate>Mon, 09 Nov 2026 10:58:00 CET</pubDate>
       <geo:lat>41.29523468</geo:lat>
       <geo:long>-3.93256903</geo:long>
       <content:encoded><![CDATA[
@@ -195,7 +195,7 @@
         Min Bar&#243;metro: 988.5 mbar at 02/05/26 09:42:17<br/>
         Max Bar&#243;metro: 1032.0 mbar at 03/30/26 11:15:16<br/>
         Max Viento: 38 mph de 290&#176; at 01/25/26 12:20:25<br/>
-        Lluvia: 363.4 mm<br/>
+        Lluvia: 363.6 mm<br/>
         Max Promedio de lluvia: 62.0 mm/h<br/>
         Min Factor de sensaci&#243;n t&#233;rmica: -9.2&#176;C at 01/07/26 04:56:39<br/>
         Max Factor de sensaci&#243;n t&#233;rmica: 37.8&#176;C at 08/13/26 16:54:43<br/>
