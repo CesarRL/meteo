@@ -10,56 +10,56 @@
     <link></link>
     <description>Condiciones actuales y sumarios diarios, mensuales y anuales</description>
     <language>"es"</language>
-    <pubDate>Fri, 13 Nov 2026 10:17:00 CET</pubDate>
+    <pubDate>Fri, 13 Nov 2026 10:21:00 CET</pubDate>
 
-    <lastBuildDate>Fri, 13 Nov 2026 10:17:00 CET</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 10:21:00 CET</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 4.9.1</generator>
     <ttl>1.0 minuto</ttl>
 
     <item>
-      <title>Condiciones clim&#225;ticas al 11/13/26 10:17:00</title>
+      <title>Condiciones clim&#225;ticas al 11/13/26 10:21:00</title>
       <link></link>
       <description>
-        Temperatura en el exterior: 10.6&#176;C;
+        Temperatura en el exterior: 10.7&#176;C;
         Temperatura en el interior: 22.6&#176;C;
-        Bar&#243;metro: 1009.7 mbar;
-        Viento: 3 mph de 219&#176;;
+        Bar&#243;metro: 1009.8 mbar;
+        Viento: 3 mph de 216&#176;;
         Lluvia: 0.0 mm;
         Promedio de lluvia: 0.0 mm/h;
-        Factor de sensaci&#243;n t&#233;rmica: 10.6&#176;C;
-        &#205;ndice de calor: 10.2&#176;C;
+        Factor de sensaci&#243;n t&#233;rmica: 10.7&#176;C;
+        &#205;ndice de calor: 10.3&#176;C;
         Punto de roc&#237;o: 9.6&#176;C;
-        Humedad: 94%;
+        Humedad: 93%;
         Humedad en el interior: 50%;
       </description>
-      <pubDate>Fri, 13 Nov 2026 10:17:00 CET</pubDate>
+      <pubDate>Fri, 13 Nov 2026 10:21:00 CET</pubDate>
       <geo:lat>41.29523468</geo:lat>
       <geo:long>-3.93256903</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Tiempo: 11/13/26 10:17:00<br/>
-        Temperatura en el exterior: 10.6&#176;C<br/>
+      Tiempo: 11/13/26 10:21:00<br/>
+        Temperatura en el exterior: 10.7&#176;C<br/>
         Temperatura en el interior: 22.6&#176;C<br/>
-        Bar&#243;metro: 1009.7 mbar<br/>
-        Viento: 3 mph de 219&#176;;
+        Bar&#243;metro: 1009.8 mbar<br/>
+        Viento: 3 mph de 216&#176;;
         Lluvia: 0.0 mm<br/>
         Promedio de lluvia: 0.0 mm/h<br/>
-        Factor de sensaci&#243;n t&#233;rmica: 10.6&#176;C<br/>
-        &#205;ndice de calor: 10.2&#176;C<br/>
+        Factor de sensaci&#243;n t&#233;rmica: 10.7&#176;C<br/>
+        &#205;ndice de calor: 10.3&#176;C<br/>
         Punto de roc&#237;o: 9.6&#176;C<br/>
-        Humedad: 94%<br/>
+        Humedad: 93%<br/>
         Humedad en el interior: 50%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Resumen diario del tiempo al 11/13/26 10:17:00</title>
+      <title>Resumen diario del tiempo al 11/13/26 10:21:00</title>
       <link></link>
       <description>
         Min Temperatura en el exterior: 8.8&#176;C at 06:43:20;
-        Max Temperatura en el exterior: 10.6&#176;C at 10:07:35;
+        Max Temperatura en el exterior: 10.7&#176;C at 10:18:15;
         Min Temperatura en el interior: 19.9&#176;C at 06:07:44;
         Max Temperatura en el interior: 22.6&#176;C at 10:09:43;
         Min Bar&#243;metro: 1007.6 mbar at 00:06:00;
@@ -68,24 +68,24 @@
         Lluvia: 3.0 mm;
         Max Promedio de lluvia: 2.0 mm/h;
         Min Factor de sensaci&#243;n t&#233;rmica: 8.8&#176;C at 06:43:20;
-        Max Factor de sensaci&#243;n t&#233;rmica: 10.6&#176;C at 10:07:35;
+        Max Factor de sensaci&#243;n t&#233;rmica: 10.7&#176;C at 10:18:15;
         Min &#205;ndice de calor: 8.2&#176;C at 07:05:52;
-        Max &#205;ndice de calor: 10.2&#176;C at 10:07:35;
+        Max &#205;ndice de calor: 10.3&#176;C at 10:18:15;
         Min Punto de roc&#237;o: 8.3&#176;C at 07:05:52;
         Max Punto de roc&#237;o: 9.7&#176;C at 00:18:48;
-        Min Humedad: 94% at 09:41:59;
+        Min Humedad: 93% at 10:19:19;
         Max Humedad: 98% at 00:18:48;
         Min Humedad en el interior: 50% at 00:00:40;
         Max Humedad en el interior: 52% at 03:54:24;
       </description>
-      <pubDate>Fri, 13 Nov 2026 10:17:00 CET</pubDate>
+      <pubDate>Fri, 13 Nov 2026 10:21:00 CET</pubDate>
       <geo:lat>41.29523468</geo:lat>
       <geo:long>-3.93256903</geo:long>
       <content:encoded><![CDATA[
       <p>
       Resumen diario del tiempo al 13 Nov 2026<br/>
         Min Temperatura en el exterior: 8.8&#176;C at 06:43:20<br/>
-        Max Temperatura en el exterior: 10.6&#176;C at 10:07:35<br/>
+        Max Temperatura en el exterior: 10.7&#176;C at 10:18:15<br/>
         Min Temperatura en el interior: 19.9&#176;C at 06:07:44<br/>
         Max Temperatura en el interior: 22.6&#176;C at 10:09:43<br/>
         Min Bar&#243;metro: 1007.6 mbar at 00:06:00<br/>
@@ -94,12 +94,12 @@
         Lluvia: 3.0 mm<br/>
         Max Promedio de lluvia: 2.0 mm/h<br/>
         Min Factor de sensaci&#243;n t&#233;rmica: 8.8&#176;C at 06:43:20<br/>
-        Max Factor de sensaci&#243;n t&#233;rmica: 10.6&#176;C at 10:07:35<br/>
+        Max Factor de sensaci&#243;n t&#233;rmica: 10.7&#176;C at 10:18:15<br/>
         Min &#205;ndice de calor: 8.2&#176;C at 07:05:52<br/>
-        Max &#205;ndice de calor: 10.2&#176;C at 10:07:35<br/>
+        Max &#205;ndice de calor: 10.3&#176;C at 10:18:15<br/>
         Min Punto de roc&#237;o: 8.3&#176;C at 07:05:52<br/>
         Max Punto de roc&#237;o: 9.7&#176;C at 00:18:48<br/>
-        Min Humedad: 94% at 09:41:59<br/>
+        Min Humedad: 93% at 10:19:19<br/>
         Max Humedad: 98% at 00:18:48<br/>
         Min Humedad en el interior: 50% at 00:00:40<br/>
         Max Humedad en el interior: 52% at 03:54:24<br/>
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Resumen mensual del tiempo al 11/13/26 10:17:00</title>
+      <title>Resumen mensual del tiempo al 11/13/26 10:21:00</title>
       <link></link>
       <description>
         Min Temperatura en el exterior: -2.9&#176;C at 11/04/26 05:34:22;
@@ -130,7 +130,7 @@
         Min Humedad en el interior: 38% at 11/06/26 08:48:21;
         Max Humedad en el interior: 52% at 11/11/26 07:18:57;
       </description>
-      <pubDate>Fri, 13 Nov 2026 10:17:00 CET</pubDate>
+      <pubDate>Fri, 13 Nov 2026 10:21:00 CET</pubDate>
       <geo:lat>41.29523468</geo:lat>
       <geo:long>-3.93256903</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Resumen anual del clima al 11/13/26 10:17:00</title>
+      <title>Resumen anual del clima al 11/13/26 10:21:00</title>
       <link></link>
       <description>
         Min Temperatura en el exterior: -6.3&#176;C at 01/06/26 01:36:23;
@@ -182,7 +182,7 @@
         Min Humedad en el interior: 28% at 07/20/26 00:34:38;
         Max Humedad en el interior: 63% at 04/27/26 10:25:22;
       </description>
-      <pubDate>Fri, 13 Nov 2026 10:17:00 CET</pubDate>
+      <pubDate>Fri, 13 Nov 2026 10:21:00 CET</pubDate>
       <geo:lat>41.29523468</geo:lat>
       <geo:long>-3.93256903</geo:long>
       <content:encoded><![CDATA[
